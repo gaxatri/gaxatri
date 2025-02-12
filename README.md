@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Gayatri
 
-<!--
-**gaxatri/gaxatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year B.Tech Computer Science & Engineering student passionate about building with modern web technologies and exploring artificial intelligence.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Learning Next.js and building full-stack web applications
+- Exploring AI/ML technologies and their practical applications
+- Enhancing my software development skills through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaxatri&show_icons=true&theme=radical)
+
+
+## 📫 Connect With Me
+- GitHub: [@gaxatri](https://github.com/gaxatri)
+---
+⭐️ Feel free to explore my repositories and don't hesitate to connect!
